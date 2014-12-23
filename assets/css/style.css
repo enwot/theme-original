@@ -439,6 +439,7 @@ h6 {
   line-height: 24px;
 }
 .bio {
+  visibility: hidden;
   position: relative;
   background-color: #F5F5F5;
   border-top: 2px solid #2eb18d;
